@@ -1,8 +1,8 @@
-# Adobe & AEM Engineering Test
+# Engineering Test
 
 ## Requirements 
 
-    Your HTTP Endpoint must accept a URI in this format:
+    HTTP Endpoint must accept a URI in this format:
     
     http://localhost:8080/romannumeral?query={integer}
 
