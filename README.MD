@@ -25,7 +25,7 @@
 
 ## Getting Started
 
-## Running in local machine 
+## Running on local machine 
     - To get started, clone this repo to your local machine.
     Note: Node version used to build the server is v20.11.0
 
