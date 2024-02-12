@@ -29,17 +29,17 @@
     - To get started, clone this repo to your local machine.
     Note: Node version used to build the server is v20.11.0
 
-    open other terminal on the roo of this project
+    open other terminal on the root of this project
     ```` bash
     cd roman-numerals-code-challenge
     yarn install
     yarn dev
     ````
-    At this, the server should br running in development mode and you can locallly access http://localhost:8080/romannumeral?query=123
+    At this, the server should be running in development mode and you can access the url http://localhost:8080/romannumeral?query=123
 
    
 ## Running on docker container
-    open other terminal on the roo of this project
+    open other terminal on the root of this project
 
     ```` bash
     cd roman-numerals-code-challenge
@@ -48,11 +48,11 @@
 
     ````
 
-    At this, the server should br running in development mode and you can locallly access http://localhost:8080/romannumeral?query=123
+    At this, the server should be running in development mode and you can access the url http://localhost:8080/romannumeral?query=123
 
-## Running test in local machine  
+## Running tests on local machine  
 
-    open other terminal on the roo of this project
+    open other terminal on the root of this project
     ```` bash
     cd roman-numerals-code-challenge
     yarn test
